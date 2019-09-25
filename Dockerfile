@@ -1,3 +1,3 @@
 FROM docker:dind
 
-RUN apk add --no-cache git bash
+RUN apk add --no-cache git bash jq
